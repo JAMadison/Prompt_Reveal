@@ -1,6 +1,6 @@
 <h1>Prompt Reveal</h1>
 
-Prompt Reveal is a user interface created with Python, tkinter & PILLOW that allows you to manage your AUTO1111 / Vlad styles.csv file, making it easier to work with AI-generated prompts. It is wrapped by pyinstaller to creat a singlefile for ease of use.
+Prompt Reveal is a user interface created with Python, tkinter & PILLOW that allows you to manage your AUTO1111 / Vlad styles.csv file, making it easier to work with AI-generated prompts. It is wrapped by pyinstaller to create a single file for ease of use.
 
 <h3>Installation and Usage</h3>
 
