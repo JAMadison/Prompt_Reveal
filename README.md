@@ -1,6 +1,7 @@
 # Prompt_Reveal
 
-Prompt Reveal is a program that allows you to manage your styles.csv file, making it easier to work with AI-generated prompts. With Prompt Reveal, you can add and delete styles, and even check if there is prompt meta-data on an image.
+Prompt Reveal is a python program that allows you to manage your styles.csv file, making it easier to work with AI-generated prompts. With Prompt Reveal, you can add and delete styles, and even check if there is prompt meta-data on an image. I have used the package pyinstaller to create a single file exe to make it as easy and straight-forward as possible.
+
 Getting Started
 
 To get started with Prompt Reveal, simply download and save the program in the same folder as your styles.csv file. This folder should be either your main AUTO1111 folder or Vlad folder.
